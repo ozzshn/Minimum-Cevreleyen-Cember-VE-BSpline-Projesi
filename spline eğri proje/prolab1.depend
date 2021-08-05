@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1605221897 source:c:\users\oznur\onedrive\masaüstü\prolab1\prolab1\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1605223681 source:c:\users\oznur\onedrive\masaüstü\prolab1\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1605565121 source:c:\users\oznur\onedrive\masaüstü\prolab1\proje1\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
